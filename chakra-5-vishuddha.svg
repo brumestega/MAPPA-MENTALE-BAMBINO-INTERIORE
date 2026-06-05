@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 1485 1050" font-family="DejaVu Sans, Liberation Sans, sans-serif">
+<defs>
+<radialGradient id="bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#FAFCFC"/><stop offset="60%" stop-color="#EEF5F9"/><stop offset="100%" stop-color="#DBEBF3"/></radialGradient>
+     <radialGradient id="nodeg" cx="50%" cy="36%" r="72%">
+      <stop offset="0%" stop-color="#6ABDE7"/><stop offset="55%" stop-color="#1CA1E3"/><stop offset="100%" stop-color="#167CAF"/></radialGradient>
+     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ADD6EB" stop-opacity="0.75"/>
+      <stop offset="70%" stop-color="#ADD6EB" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ADD6EB" stop-opacity="0"/></radialGradient>
+     <filter id="soft" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#143D52" flood-opacity="0.22"/></filter>
+     <filter id="softsm" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#143D52" flood-opacity="0.25"/></filter>
+     <filter id="tsh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="2" flood-color="#3A1500" flood-opacity="0.45"/></filter>
+<linearGradient id="g0" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#53DBEA"/><stop offset="100%" stop-color="#16A6B6"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#53C9EA"/><stop offset="100%" stop-color="#1693B6"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#53B7EA"/><stop offset="100%" stop-color="#1681B6"/></linearGradient>
+<linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#53A6EA"/><stop offset="100%" stop-color="#166EB6"/></linearGradient>
+<linearGradient id="g4" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5394EA"/><stop offset="100%" stop-color="#165BB6"/></linearGradient>
+<symbol id="ic-water" viewBox="0 0 100 100"><path d="M50 14 C50 32 76 50 76 66 A26 26 0 0 1 24 66 C24 50 50 32 50 14 Z" fill="currentColor"/><ellipse cx="40" cy="64" rx="6" ry="9" fill="#fff" opacity="0.45"/></symbol>
+<symbol id="ic-earth" viewBox="0 0 100 100"><path d="M10 78 L38 30 L54 54 L64 40 L90 78 Z" fill="currentColor"/><path d="M38 30 L48 46 L33 46 Z" fill="#fff" opacity="0.5"/></symbol>
+<symbol id="ic-fire" viewBox="0 0 100 100"><path d="M52 10 C66 32 80 42 74 64 A24 24 0 0 1 26 62 C25 50 34 46 39 38 C42 50 51 47 49 36 C48 27 49 19 52 10 Z" fill="currentColor"/><path d="M50 50 C58 58 60 64 56 72 A8 8 0 0 1 42 70 C42 62 47 60 50 50 Z" fill="#fff" opacity="0.55"/></symbol>
+<symbol id="ic-air" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="6.5" stroke-linecap="round"><path d="M16 36 H56 a11 11 0 1 0 -11 -11"/><path d="M16 54 H70 a10 10 0 1 1 -10 10"/><path d="M16 72 H48 a9 9 0 1 0 -9 9"/></g></symbol>
+<symbol id="ic-ether" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5"><circle cx="50" cy="50" r="30"/><circle cx="50" cy="50" r="17"/></g><circle cx="50" cy="50" r="7" fill="currentColor"/><g fill="currentColor"><circle cx="50" cy="12" r="3"/><circle cx="84" cy="64" r="3"/><circle cx="18" cy="66" r="3"/></g></symbol>
+<symbol id="ic-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="17" fill="currentColor"/><g stroke="currentColor" stroke-width="6" stroke-linecap="round"><line x1="74.0" y1="50.0" x2="84.0" y2="50.0"/><line x1="67.0" y1="67.0" x2="74.0" y2="74.0"/><line x1="50.0" y1="74.0" x2="50.0" y2="84.0"/><line x1="33.0" y1="67.0" x2="26.0" y2="74.0"/><line x1="26.0" y1="50.0" x2="16.0" y2="50.0"/><line x1="33.0" y1="33.0" x2="26.0" y2="26.0"/><line x1="50.0" y1="26.0" x2="50.0" y2="16.0"/><line x1="67.0" y1="33.0" x2="74.0" y2="26.0"/></g></symbol>
+<symbol id="ic-consciousness" viewBox="0 0 100 100"><circle cx="50" cy="50" r="8" fill="currentColor"/><circle cx="50" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="3.5" opacity="0.8"/><g stroke="currentColor" stroke-width="3.2" stroke-linecap="round"><line x1="74.0" y1="50.0" x2="83.0" y2="50.0"/><line x1="72.2" y1="59.2" x2="80.5" y2="62.6"/><line x1="67.0" y1="67.0" x2="73.3" y2="73.3"/><line x1="59.2" y1="72.2" x2="62.6" y2="80.5"/><line x1="50.0" y1="74.0" x2="50.0" y2="83.0"/><line x1="40.8" y1="72.2" x2="37.4" y2="80.5"/><line x1="33.0" y1="67.0" x2="26.7" y2="73.3"/><line x1="27.8" y1="59.2" x2="19.5" y2="62.6"/><line x1="26.0" y1="50.0" x2="17.0" y2="50.0"/><line x1="27.8" y1="40.8" x2="19.5" y2="37.4"/><line x1="33.0" y1="33.0" x2="26.7" y2="26.7"/><line x1="40.8" y1="27.8" x2="37.4" y2="19.5"/><line x1="50.0" y1="26.0" x2="50.0" y2="17.0"/><line x1="59.2" y1="27.8" x2="62.6" y2="19.5"/><line x1="67.0" y1="33.0" x2="73.3" y2="26.7"/><line x1="72.2" y1="40.8" x2="80.5" y2="37.4"/></g></symbol>
+<symbol id="ic-flower" viewBox="0 0 100 100"><ellipse cx="50.0" cy="31.0" rx="9.5" ry="17" transform="rotate(0.0 50.0 31.0)" fill="currentColor"/><ellipse cx="66.5" cy="40.5" rx="9.5" ry="17" transform="rotate(60.0 66.5 40.5)" fill="currentColor"/><ellipse cx="66.5" cy="59.5" rx="9.5" ry="17" transform="rotate(120.0 66.5 59.5)" fill="currentColor"/><ellipse cx="50.0" cy="69.0" rx="9.5" ry="17" transform="rotate(180.0 50.0 69.0)" fill="currentColor"/><ellipse cx="33.5" cy="59.5" rx="9.5" ry="17" transform="rotate(240.0 33.5 59.5)" fill="currentColor"/><ellipse cx="33.5" cy="40.5" rx="9.5" ry="17" transform="rotate(300.0 33.5 40.5)" fill="currentColor"/><circle cx="50" cy="50" r="11" fill="#fff"/><circle cx="50" cy="50" r="6" fill="currentColor"/></symbol>
+<symbol id="ic-broken" viewBox="0 0 100 100"><path d="M50 84 C16 60 7 40 22 26 C34 15 47 19 50 31 C53 19 66 15 78 26 C93 40 84 60 50 84 Z" fill="currentColor"/><path d="M50 24 L43 42 L57 55 L46 70 L51 83" stroke="#fff" stroke-width="5" fill="none" stroke-linejoin="round" stroke-linecap="round"/></symbol>
+<symbol id="ic-dna" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-linecap="round"><path d="M34 18 C66 30 66 46 50 50 C34 54 34 70 66 82" stroke-width="5.5"/><path d="M66 18 C34 30 34 46 50 50 C66 54 66 70 34 82" stroke-width="5.5"/><path d="M41 23 L59 23" stroke-width="4"/><path d="M36 33 L64 33" stroke-width="4"/><path d="M36 67 L64 67" stroke-width="4"/><path d="M41 77 L59 77" stroke-width="4"/></g></symbol>
+<symbol id="ic-sparkle" viewBox="0 0 100 100"><path d="M46 18 C49 40 52 45 76 48 C52 51 49 56 46 78 C43 56 40 51 16 48 C40 45 43 40 46 18 Z" fill="currentColor"/><path d="M78 20 C79 28 80 30 88 31 C80 32 79 34 78 42 C77 34 76 32 68 31 C76 30 77 28 78 20 Z" fill="currentColor"/><path d="M26 66 C27 72 28 73 34 74 C28 75 27 76 26 82 C25 76 24 75 18 74 C24 73 25 72 26 66 Z" fill="currentColor"/></symbol>
+<symbol id="ic-eye" viewBox="0 0 100 100"><path d="M12 50 Q50 20 88 50 Q50 80 12 50 Z" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"/><circle cx="50" cy="50" r="14" fill="currentColor"/><circle cx="45" cy="46" r="4" fill="#fff"/></symbol>
+</defs>
+<rect width="1485" height="1050" fill="url(#bg)"/>
+<circle cx="40" cy="40" r="7" fill="#88C1DD" opacity="0.5"/><circle cx="66" cy="50" r="4" fill="#88C1DD" opacity="0.4"/><circle cx="54" cy="70" r="3" fill="#88C1DD" opacity="0.35"/><circle cx="80" cy="34" r="3" fill="#88C1DD" opacity="0.3"/><circle cx="36" cy="62" r="4" fill="#88C1DD" opacity="0.3"/><circle cx="1415" cy="44" r="7" fill="#88C1DD" opacity="0.5"/><circle cx="1441" cy="54" r="4" fill="#88C1DD" opacity="0.4"/><circle cx="1429" cy="74" r="3" fill="#88C1DD" opacity="0.35"/><circle cx="1455" cy="38" r="3" fill="#88C1DD" opacity="0.3"/><circle cx="1411" cy="66" r="4" fill="#88C1DD" opacity="0.3"/><circle cx="44" cy="980" r="7" fill="#88C1DD" opacity="0.5"/><circle cx="70" cy="990" r="4" fill="#88C1DD" opacity="0.4"/><circle cx="58" cy="1010" r="3" fill="#88C1DD" opacity="0.35"/><circle cx="84" cy="974" r="3" fill="#88C1DD" opacity="0.3"/><circle cx="40" cy="1002" r="4" fill="#88C1DD" opacity="0.3"/><circle cx="1415" cy="978" r="7" fill="#88C1DD" opacity="0.5"/><circle cx="1441" cy="988" r="4" fill="#88C1DD" opacity="0.4"/><circle cx="1429" cy="1008" r="3" fill="#88C1DD" opacity="0.35"/><circle cx="1455" cy="972" r="3" fill="#88C1DD" opacity="0.3"/><circle cx="1411" cy="1000" r="4" fill="#88C1DD" opacity="0.3"/>
+<circle cx="742" cy="255" r="305" fill="url(#glow)"/>
+<g><ellipse cx="876.2" cy="332.5" rx="60" ry="155" transform="rotate(120.0 876.2 332.5)" fill="#BAD9E8" opacity="0.32"/><ellipse cx="742.0" cy="410.0" rx="60" ry="155" transform="rotate(180.0 742.0 410.0)" fill="#BAD9E8" opacity="0.32"/><ellipse cx="607.8" cy="332.5" rx="60" ry="155" transform="rotate(240.0 607.8 332.5)" fill="#BAD9E8" opacity="0.32"/><ellipse cx="607.8" cy="177.5" rx="60" ry="155" transform="rotate(300.0 607.8 177.5)" fill="#BAD9E8" opacity="0.32"/><ellipse cx="742.0" cy="100.0" rx="60" ry="155" transform="rotate(360.0 742.0 100.0)" fill="#BAD9E8" opacity="0.32"/><ellipse cx="876.2" cy="177.5" rx="60" ry="155" transform="rotate(420.0 876.2 177.5)" fill="#BAD9E8" opacity="0.32"/></g>
+<path d="M742 255 Q493 228 244 75" fill="none" stroke="#25D1E4" stroke-width="15" stroke-linecap="round" opacity="0.5"/>
+<path d="M742 255 Q992 228 1241 75" fill="none" stroke="#25BBE4" stroke-width="15" stroke-linecap="round" opacity="0.5"/>
+<path d="M742 255 Q493 293 244 510" fill="none" stroke="#25A4E4" stroke-width="15" stroke-linecap="round" opacity="0.5"/>
+<path d="M742 255 Q742 289 742 480" fill="none" stroke="#258EE4" stroke-width="15" stroke-linecap="round" opacity="0.5"/>
+<path d="M742 255 Q992 293 1241 510" fill="none" stroke="#2578E4" stroke-width="15" stroke-linecap="round" opacity="0.5"/>
+<g filter="url(#soft)"><rect x="78" y="35" width="332" height="264" rx="26" fill="#ffffff" stroke="#53DBEA" stroke-opacity="0.4" stroke-width="1.5"/></g>
+<rect x="90" y="47" width="308" height="60" rx="20" fill="url(#g0)"/>
+<circle cx="125" cy="77.0" r="21" fill="#ffffff"/>
+<use href="#ic-ether" x="109" y="61.0" width="32" height="32" color="#16A6B6"/>
+<text x="157" y="84.0" font-size="20" font-weight="bold" fill="#ffffff" letter-spacing="0.3">CORRISPONDENZE</text>
+<circle cx="112" cy="135" r="5" fill="#25D1E4"/>
+<text x="128" y="141" font-size="22" fill="#234657" font-weight="500">Elemento Etere</text>
+<circle cx="112" cy="162" r="5" fill="#25D1E4"/>
+<text x="128" y="168" font-size="22" fill="#234657" font-weight="500">Gola</text>
+<circle cx="112" cy="189" r="5" fill="#25D1E4"/>
+<text x="128" y="195" font-size="22" fill="#234657" font-weight="500">Tiroide</text>
+<circle cx="112" cy="216" r="5" fill="#25D1E4"/>
+<text x="128" y="222" font-size="22" fill="#234657" font-weight="500">Plesso cervicale</text>
+<circle cx="112" cy="243" r="5" fill="#25D1E4"/>
+<text x="128" y="249" font-size="22" fill="#234657" font-weight="500">Colore azzurro</text>
+<circle cx="112" cy="270" r="5" fill="#25D1E4"/>
+<text x="128" y="276" font-size="22" fill="#234657" font-weight="500">Mantra HAM</text>
+<g filter="url(#soft)"><rect x="1075" y="35" width="332" height="264" rx="26" fill="#ffffff" stroke="#53C9EA" stroke-opacity="0.4" stroke-width="1.5"/></g>
+<rect x="1087" y="47" width="308" height="60" rx="20" fill="url(#g1)"/>
+<circle cx="1122" cy="77.0" r="21" fill="#ffffff"/>
+<use href="#ic-flower" x="1106" y="61.0" width="32" height="32" color="#1693B6"/>
+<text x="1154" y="84.0" font-size="20" font-weight="bold" fill="#ffffff" letter-spacing="0.3">TEMI E FUNZIONI</text>
+<circle cx="1109" cy="135" r="5" fill="#25BBE4"/>
+<text x="1125" y="141" font-size="22" fill="#234657" font-weight="500">Comunicazione</text>
+<circle cx="1109" cy="162" r="5" fill="#25BBE4"/>
+<text x="1125" y="168" font-size="22" fill="#234657" font-weight="500">Verità</text>
+<circle cx="1109" cy="189" r="5" fill="#25BBE4"/>
+<text x="1125" y="195" font-size="22" fill="#234657" font-weight="500">Espressione</text>
+<circle cx="1109" cy="216" r="5" fill="#25BBE4"/>
+<text x="1125" y="222" font-size="22" fill="#234657" font-weight="500">Ascolto</text>
+<circle cx="1109" cy="243" r="5" fill="#25BBE4"/>
+<text x="1125" y="249" font-size="22" fill="#234657" font-weight="500">Creatività</text>
+<circle cx="1109" cy="270" r="5" fill="#25BBE4"/>
+<text x="1125" y="276" font-size="22" fill="#234657" font-weight="500">Autenticità</text>
+<g filter="url(#soft)"><rect x="78" y="470" width="332" height="264" rx="26" fill="#ffffff" stroke="#53B7EA" stroke-opacity="0.4" stroke-width="1.5"/></g>
+<rect x="90" y="482" width="308" height="60" rx="20" fill="url(#g2)"/>
+<circle cx="125" cy="512.0" r="21" fill="#ffffff"/>
+<use href="#ic-broken" x="109" y="496.0" width="32" height="32" color="#1681B6"/>
+<text x="157" y="519.0" font-size="20" font-weight="bold" fill="#ffffff" letter-spacing="0.3">SQUILIBRI</text>
+<circle cx="112" cy="570" r="5" fill="#25A4E4"/>
+<text x="128" y="576" font-size="22" fill="#234657" font-weight="500">Difficoltà col no</text>
+<circle cx="112" cy="597" r="5" fill="#25A4E4"/>
+<text x="128" y="603" font-size="22" fill="#234657" font-weight="500">Paura del giudizio</text>
+<circle cx="112" cy="624" r="5" fill="#25A4E4"/>
+<text x="128" y="630" font-size="22" fill="#234657" font-weight="500">Mi scuso sempre</text>
+<circle cx="112" cy="651" r="5" fill="#25A4E4"/>
+<text x="128" y="657" font-size="22" fill="#234657" font-weight="500">Nodo alla gola</text>
+<circle cx="112" cy="678" r="5" fill="#25A4E4"/>
+<text x="128" y="684" font-size="22" fill="#234657" font-weight="500">Bruxismo</text>
+<circle cx="112" cy="705" r="5" fill="#25A4E4"/>
+<text x="128" y="711" font-size="22" fill="#234657" font-weight="500">Verità taciuta</text>
+<g filter="url(#soft)"><rect x="576" y="470" width="332" height="264" rx="26" fill="#ffffff" stroke="#53A6EA" stroke-opacity="0.4" stroke-width="1.5"/></g>
+<rect x="588" y="482" width="308" height="60" rx="20" fill="url(#g3)"/>
+<circle cx="623" cy="512.0" r="21" fill="#ffffff"/>
+<use href="#ic-dna" x="607" y="496.0" width="32" height="32" color="#166EB6"/>
+<text x="655" y="519.0" font-size="19" font-weight="bold" fill="#ffffff" letter-spacing="0.3">DECODIFICA HAMER</text>
+<circle cx="610" cy="570" r="5" fill="#258EE4"/>
+<text x="626" y="576" font-size="22" fill="#234657" font-weight="500">Ectoderma</text>
+<circle cx="610" cy="597" r="5" fill="#258EE4"/>
+<text x="626" y="603" font-size="22" fill="#234657" font-weight="500">Corteccia cerebrale</text>
+<circle cx="610" cy="624" r="5" fill="#258EE4"/>
+<text x="626" y="630" font-size="22" fill="#234657" font-weight="500">Laringe e tiroide</text>
+<circle cx="610" cy="651" r="5" fill="#258EE4"/>
+<text x="626" y="657" font-size="22" fill="#234657" font-weight="500">Conflitto di spavento</text>
+<circle cx="610" cy="678" r="5" fill="#258EE4"/>
+<text x="626" y="684" font-size="22" fill="#234657" font-weight="500">Non poter parlare</text>
+<circle cx="610" cy="705" r="5" fill="#258EE4"/>
+<text x="626" y="711" font-size="22" fill="#234657" font-weight="500">Sentirsi impotenti</text>
+<g filter="url(#soft)"><rect x="1075" y="470" width="332" height="264" rx="26" fill="#ffffff" stroke="#5394EA" stroke-opacity="0.4" stroke-width="1.5"/></g>
+<rect x="1087" y="482" width="308" height="60" rx="20" fill="url(#g4)"/>
+<circle cx="1122" cy="512.0" r="21" fill="#ffffff"/>
+<use href="#ic-sparkle" x="1106" y="496.0" width="32" height="32" color="#165BB6"/>
+<text x="1154" y="519.0" font-size="20" font-weight="bold" fill="#ffffff" letter-spacing="0.3">RIEQUILIBRIO</text>
+<circle cx="1109" cy="570" r="5" fill="#2578E4"/>
+<text x="1125" y="576" font-size="22" fill="#234657" font-weight="500">Dire la verità</text>
+<circle cx="1109" cy="597" r="5" fill="#2578E4"/>
+<text x="1125" y="603" font-size="22" fill="#234657" font-weight="500">Cantare, vocalizzare</text>
+<circle cx="1109" cy="624" r="5" fill="#2578E4"/>
+<text x="1125" y="630" font-size="22" fill="#234657" font-weight="500">Esprimere il sentire</text>
+<circle cx="1109" cy="651" r="5" fill="#2578E4"/>
+<text x="1125" y="657" font-size="22" fill="#234657" font-weight="500">Scrivere</text>
+<circle cx="1109" cy="678" r="5" fill="#2578E4"/>
+<text x="1125" y="684" font-size="22" fill="#234657" font-weight="500">Silenzio consapevole</text>
+<circle cx="1109" cy="705" r="5" fill="#2578E4"/>
+<text x="1125" y="711" font-size="22" fill="#234657" font-weight="500">«Esprimo me»</text>
+<g filter="url(#soft)"><ellipse cx="742" cy="255" rx="205" ry="158" fill="url(#nodeg)" stroke="#ffffff" stroke-width="6"/></g>
+<ellipse cx="742" cy="255" rx="192" ry="145" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="2"/>
+<use href="#ic-ether" x="711" y="125" width="62" height="62" color="#ffffff"/>
+<text x="742" y="241" text-anchor="middle" font-size="42" font-weight="bold" fill="#ffffff" letter-spacing="1" filter="url(#tsh)">VISHUDDHA</text>
+<text x="742" y="279" text-anchor="middle" font-size="23" font-weight="bold" fill="#ffffff" letter-spacing="0.5" filter="url(#tsh)">5&#176; CHAKRA &#183; GOLA</text>
+<text x="742" y="317" text-anchor="middle" font-size="17" fill="#FFF1E0" letter-spacing="2" font-weight="500">ETERE &#183; AZZURRO &#183; &#171;IO COMUNICO&#187;</text>
+<g filter="url(#soft)"><rect x="150" y="772" width="1185" height="246" rx="30" fill="#FFFFFF" stroke="#53B7EA" stroke-opacity="0.6" stroke-width="2"/></g>
+<rect x="150" y="772" width="1185" height="246" rx="30" fill="none" stroke="#C9E1ED" stroke-width="6" opacity="0.55"/>
+<text x="742.5" y="816" text-anchor="middle" font-size="19" fill="#2C7396" font-weight="bold" letter-spacing="3">DOMANDE DI AUTO-OSSERVAZIONE</text>
+<g filter="url(#softsm)"><circle cx="358" cy="910" r="25.0" fill="#1681B6"/></g>
+<use href="#ic-eye" x="342" y="894" width="32" height="32" color="#ffffff"/>
+<rect x="393" y="881.0" width="277" height="58" rx="29.0" fill="#F1F8FB" stroke="#53B7EA" stroke-opacity="0.7" stroke-width="2"/>
+<text x="532" y="918" text-anchor="middle" font-size="21" fill="#234657" font-family="DejaVu Serif, serif" font-style="italic">Esprimo la mia verità?</text>
+<g filter="url(#softsm)"><circle cx="745" cy="910" r="25.0" fill="#1681B6"/></g>
+<use href="#ic-eye" x="729" y="894" width="32" height="32" color="#ffffff"/>
+<rect x="780" y="881.0" width="372" height="58" rx="29.0" fill="#F1F8FB" stroke="#53B7EA" stroke-opacity="0.7" stroke-width="2"/>
+<text x="966" y="918" text-anchor="middle" font-size="21" fill="#234657" font-family="DejaVu Serif, serif" font-style="italic">Mi sento ascoltato dagli altri?</text>
+<text x="742.5" y="984" text-anchor="middle" font-size="23" fill="#1A6B93" font-family="DejaVu Serif, serif" font-style="italic">&#171;&#160;Esprimo la mia verità.&#160;&#187;</text>
+</svg>

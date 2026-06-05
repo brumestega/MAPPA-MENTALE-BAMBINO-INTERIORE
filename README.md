@@ -1,64 +1,65 @@
-# 🧡 Mappe Mentali — Bambino Interiore & Secondo Chakra (Svadhisthana)
+# 🌈 Mappe Mentali — Chakra & Bambino Interiore
 
-Due mappe mentali visive professionali, **formato A4 orizzontale**, pensate come
-supporto per un laboratorio di gruppo. Stile coordinato: palette arancione calda,
-sfondo chiaro, icone vettoriali disegnate a mano (niente emoji), testo leggibile
-anche a distanza. Pronte per la **stampa ad alta risoluzione**.
+Raccolta di mappe mentali visive professionali, **formato A4 orizzontale**, pensate
+come supporto per laboratori di gruppo. Stile coordinato: sfondo chiaro, loto
+sfumato dietro al nodo centrale, **icone vettoriali disegnate a mano** (niente
+emoji), testo leggibile a distanza. Pronte per la **stampa ad alta risoluzione**.
 
-## Le due mappe
-
-### 1. Bambino Interiore e Secondo Chakra — *il percorso emotivo*
+## A. Mappa del Bambino Interiore
 `mappa-mentale-bambino-interiore.pdf` · `.png` · `.svg`
 
-Nodo centrale + 5 rami radiali:
-- 👶 **Bambino Interiore** — Gioia, Gioco, Curiosità, Innocenza, Bisogni, Vulnerabilità
-- 🌊 **Secondo Chakra** — Acqua, Emozioni, Piacere, Creatività, Relazioni, Movimento
-- 💔 **Ferite** — Rifiuto, Abbandono, Vergogna, Critica, Paura, Controllo
-- 🔄 **Nell'adulto** — Chiusura, Dipendenza, Giudizio, Blocchi, Senso di colpa, Difficoltà a ricevere
-- ✨ **Guarigione** — Accoglienza, Ascolto, Fiducia, Espressione, Creatività, Gioia
+Il percorso emotivo: nodo centrale *Bambino Interiore e Secondo Chakra* + 5 rami
+(Bambino Interiore · Secondo Chakra · Ferite · Nell'adulto · Guarigione), le catene
+"dal dolore alla gioia" e la frase *Bambino → Ferita → Emozione → Accoglienza → Gioia*.
 
-Più le due catene "dal dolore alla gioia" e la frase finale:
-*Bambino → Ferita → Emozione → Accoglienza → Gioia*.
+## B. I 7 Chakra — Le Corrispondenze
+`i-7-chakra-corrispondenze.pdf` (**un unico file, 7 pagine**) + i singoli file
+`chakra-1-muladhara` … `chakra-7-sahasrara` (`.pdf` / `.png` / `.svg`).
 
-### 2. Svadhisthana — *le corrispondenze*
-`svadhisthana-corrispondenze.pdf` · `.png` · `.svg`
+Una mappa per ciascun chakra, **color-codata sul colore del chakra** (rosso → viola)
+e con la **icona-elemento** dedicata (terra, acqua, fuoco, aria, etere, luce,
+coscienza). Ogni mappa ha la stessa struttura a 5 rami:
 
-Companion di approfondimento sul 2° chakra. Nodo centrale + 5 rami:
-- 💧 **Corrispondenze** — Elemento Acqua, Basso ventre, Ghiandola gonadi, Plesso lombare, Colore arancione, Mantra VAM
-- 🌸 **Temi e Funzioni** — Emozioni, Piacere, Creatività, Relazioni, Sessualità, Movimento
-- 💔 **Squilibri** — Senso di colpa, Vergogna del corpo, Colpa nel ricevere, Paura dell'intimità, Dolori pelvici, Creatività bloccata
-- 🧬 **Decodifica Hamer** — Mesoderma antico, Cervelletto, Protezione, Attacco all'integrità, Derma e sierose, Mammella ghiandolare
-- ✨ **Riequilibrio** — Sentire le emozioni, Lasciar fluire, Concedersi piacere, Acqua e bagni, Danza del bacino, Creatività libera
+| Ramo | Contenuto |
+|------|-----------|
+| **Corrispondenze** | Elemento · Posizione · Ghiandola · Plesso · Colore · Mantra |
+| **Temi e Funzioni** | i temi positivi del chakra |
+| **Squilibri** | sintomi emotivi e fisici dello squilibrio |
+| **Decodifica Hamer** | foglietto embrionale · area cerebrale · conflitto · organi |
+| **Riequilibrio** | pratiche per riarmonizzare |
 
-Con le **domande di auto-osservazione**: *Mi permetto di provare piacere?* ·
-*Riesco a esprimere le mie emozioni?*
+più il banner con le **domande di auto-osservazione** e l'**affermazione** del chakra.
+
+I 7 chakra: 1 Muladhara (Radice/rosso) · 2 Svadhisthana (Sacrale/arancione) ·
+3 Manipura (Plesso solare/giallo) · 4 Anahata (Cuore/verde) · 5 Vishuddha (Gola/azzurro) ·
+6 Ajna (Terzo occhio/indaco) · 7 Sahasrara (Corona/viola).
 
 ## Stampa
-
-I file `.pdf` sono **vettoriali in formato A4 (297 × 210 mm)**: si stampano nitidi a
-qualsiasi dimensione. I file `.png` sono a **300 DPI (3508 × 2481 px)** per anteprima
-o stampa raster. In stampa scegliere "adatta alla pagina / orizzontale".
+I `.pdf` sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
+I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
+orientamento **orizzontale**.
 
 ## Rigenerare i file
-
-Servono Python 3 e `rsvg-convert` (pacchetto `librsvg2-bin`):
+Servono Python 3 e `rsvg-convert` (pacchetto `librsvg2-bin`); per il PDF unico
+`pdfunite` (pacchetto `poppler-utils`).
 
 ```bash
-# Mappa 1
-python3 genera_mappa.py
-rsvg-convert -f pdf mappa-mentale-bambino-interiore.svg -o mappa-mentale-bambino-interiore.pdf
-rsvg-convert -f png -d 300 -p 300 mappa-mentale-bambino-interiore.svg -o mappa-mentale-bambino-interiore.png
+python3 genera_mappa.py     # Mappa del Bambino Interiore
+python3 genera_chakra.py    # le 7 mappe dei chakra (chakra-1..7-*.svg)
 
-# Mappa 2
-python3 genera_mappa2.py
-rsvg-convert -f pdf svadhisthana-corrispondenze.svg -o svadhisthana-corrispondenze.pdf
-rsvg-convert -f png -d 300 -p 300 svadhisthana-corrispondenze.svg -o svadhisthana-corrispondenze.png
+# esempio export di una mappa
+rsvg-convert -f pdf chakra-4-anahata.svg -o chakra-4-anahata.pdf
+rsvg-convert -f png -d 300 -p 300 chakra-4-anahata.svg -o chakra-4-anahata.png
+
+# PDF unico dei 7 chakra
+pdfunite chakra-1-*.pdf chakra-2-*.pdf chakra-3-*.pdf chakra-4-*.pdf \
+         chakra-5-*.pdf chakra-6-*.pdf chakra-7-*.pdf i-7-chakra-corrispondenze.pdf
 ```
 
-Per modificare contenuti o colori basta editare le liste `BRANCHES` negli script
-`genera_mappa.py` / `genera_mappa2.py` e rigenerare.
+Per modificare testi/colori basta editare la lista `CHAKRAS` in `genera_chakra.py`
+(o `BRANCHES` in `genera_mappa.py`) e rigenerare.
 
 ---
-*Nota: la mappa "Decodifica Hamer" riporta corrispondenze simboliche della Nuova
-Medicina Germanica a fini di lavoro interiore in un contesto formativo; non
-costituisce indicazione medica.*
+*Nota: i contenuti (corrispondenze energetiche e "Decodifica Hamer" della Nuova
+Medicina Germanica) sono proposti come strumenti simbolici di lavoro interiore in
+un contesto formativo e non costituiscono indicazione medica o diagnosi.*
