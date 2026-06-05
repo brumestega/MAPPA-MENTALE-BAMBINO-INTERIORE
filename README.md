@@ -34,6 +34,15 @@ I 7 chakra: 1 Muladhara (Radice/rosso) · 2 Svadhisthana (Sacrale/arancione) ·
 3 Manipura (Plesso solare/giallo) · 4 Anahata (Cuore/verde) · 5 Vishuddha (Gola/azzurro) ·
 6 Ajna (Terzo occhio/indaco) · 7 Sahasrara (Corona/viola).
 
+## C. Meditazione guidata del Bambino Interiore
+`meditazione-bambino-interiore.pdf` (copione impaginato, A4 verticale) · `.md` (testo)
+
+Un copione pronto da **leggere ad alta voce** in un laboratorio di gruppo: 9 fasi
+(preparazione · respiro dell'acqua · luogo sicuro · incontro · ascolto · accoglienza ·
+gioco e gioia · integrazione · ritorno), con le **pause** indicate, le **affermazioni**
+finali e le **note per il facilitatore** (durata ~20–25 min). Collegata al 2° chakra
+(acqua, emozioni, luce arancione).
+
 ## Stampa
 I `.pdf` sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
 I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
@@ -44,8 +53,9 @@ Servono Python 3 e `rsvg-convert` (pacchetto `librsvg2-bin`); per il PDF unico
 `pdfunite` (pacchetto `poppler-utils`).
 
 ```bash
-python3 genera_mappa.py     # Mappa del Bambino Interiore
-python3 genera_chakra.py    # le 7 mappe dei chakra (chakra-1..7-*.svg)
+python3 genera_mappa.py        # Mappa del Bambino Interiore
+python3 genera_chakra.py       # le 7 mappe dei chakra (chakra-1..7-*.svg)
+python3 genera_meditazione.py  # meditazione guidata (PDF + Markdown)  [serve reportlab]
 
 # esempio export di una mappa
 rsvg-convert -f pdf chakra-4-anahata.svg -o chakra-4-anahata.pdf
