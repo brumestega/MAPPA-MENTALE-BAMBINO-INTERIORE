@@ -54,6 +54,15 @@ all'**elevazione della vibrazione** (luce + mantra *bija*: LAM · VAM · RAM · 
 HAM · OM). Struttura in 6 fasi: Radicamento · Accendere il centro · Riconoscere e
 lasciar andare · Il suono che eleva · Espansione · Integrazione e ritorno.
 
+## E. Chakra & Numerologia
+`chakra-numerologia.pdf` · `.png` · `.svg`
+
+Pagina A4 di sintesi (coordinata col kit): tabella arcobaleno dei 7 chakra con
+**numero · petali · mantra bija · significato numerologico · affermazione**, più tre
+riquadri — *I numeri come suono* (i 50 petali = le 50 lettere sanscrite), *Il tuo
+Numero del Percorso di Vita* (calcolo + esempio) e una *Nota onesta* sulle fonti
+(cosa è tradizione e cosa è sintesi moderna). Vedi `genera_numerologia.py`.
+
 ## Stampa
 I `.pdf` (mappe) sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
 I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
