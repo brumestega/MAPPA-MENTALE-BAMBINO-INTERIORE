@@ -43,8 +43,19 @@ gioco e gioia · integrazione · ritorno), con le **pause** indicate, le **affer
 finali e le **note per il facilitatore** (durata ~20–25 min). Collegata al 2° chakra
 (acqua, emozioni, luce arancione).
 
+## D. 7 Meditazioni dei Chakra
+`7-meditazioni-dei-chakra.pdf` (**un unico file, 14 pagine**) + i singoli
+`meditazione-1-muladhara` … `meditazione-7-sahasrara` (`.pdf`) e
+`meditazioni-dei-chakra.md` (testo).
+
+Una meditazione guidata **per ogni chakra**, coordinata nel colore e nell'elemento
+con la rispettiva mappa. Ognuna è centrata sui temi del chakra e conduce
+all'**elevazione della vibrazione** (luce + mantra *bija*: LAM · VAM · RAM · YAM ·
+HAM · OM). Struttura in 6 fasi: Radicamento · Accendere il centro · Riconoscere e
+lasciar andare · Il suono che eleva · Espansione · Integrazione e ritorno.
+
 ## Stampa
-I `.pdf` sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
+I `.pdf` (mappe) sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
 I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
 orientamento **orizzontale**.
 
@@ -55,7 +66,8 @@ Servono Python 3 e `rsvg-convert` (pacchetto `librsvg2-bin`); per il PDF unico
 ```bash
 python3 genera_mappa.py        # Mappa del Bambino Interiore
 python3 genera_chakra.py       # le 7 mappe dei chakra (chakra-1..7-*.svg)
-python3 genera_meditazione.py  # meditazione guidata (PDF + Markdown)  [serve reportlab]
+python3 genera_meditazione.py  # meditazione del Bambino Interiore (PDF + Markdown)  [serve reportlab]
+python3 genera_meditazioni_chakra.py  # le 7 meditazioni dei chakra (PDF + PDF unico + Markdown)
 
 # esempio export di una mappa
 rsvg-convert -f pdf chakra-4-anahata.svg -o chakra-4-anahata.pdf
