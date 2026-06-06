@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 1485 1050" font-family="DejaVu Sans, Liberation Sans, sans-serif">
+<defs>
+<linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFFDFA"/><stop offset="100%" stop-color="#F1ECF4"/></linearGradient>
+<linearGradient id="ban" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3E3566"/><stop offset="100%" stop-color="#6A4A8A"/></linearGradient>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#4A3A2A" flood-opacity="0.18"/></filter>
+<filter id="tsh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="2" flood-color="#1A0E2A" flood-opacity="0.5"/></filter>
+</defs>
+<rect width="1485" height="1050" fill="url(#bgg)"/>
+<g filter="url(#sh)"><rect x="40" y="28" width="1405" height="96" rx="24" fill="url(#ban)"/></g>
+<text x="742.5" y="74" text-anchor="middle" font-size="38" font-weight="bold" fill="#fff" letter-spacing="2" filter="url(#tsh)">CHAKRA &#183; ALBERO DELLA VITA &#183; TAROCCHI</text>
+<text x="742.5" y="105" text-anchor="middle" font-size="16.5" fill="#EADBF6" letter-spacing="1" filter="url(#tsh)">Il ponte ermetico: i 7 chakra sulle Sephirot &#183; i 22 sentieri come Arcani Maggiori</text>
+<g filter="url(#sh)"><rect x="40" y="140" width="555" height="835" rx="22" fill="#ffffff" stroke="#E6DDEE" stroke-width="1.5"/></g>
+<text x="357" y="172" text-anchor="middle" font-size="16" font-weight="bold" fill="#3E3566" letter-spacing="1">L&#8217;ALBERO DELLA VITA</text>
+<line x1="357" y1="205" x2="455" y2="302" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="205" x2="259" y2="302" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="205" x2="357" y2="548" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="302" x2="259" y2="302" stroke="#1E9E8F" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="302" x2="357" y2="548" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="302" x2="455" y2="452" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="302" x2="357" y2="548" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="302" x2="259" y2="452" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="452" x2="259" y2="452" stroke="#1E9E8F" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="452" x2="357" y2="548" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="452" x2="455" y2="650" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="452" x2="357" y2="548" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="452" x2="259" y2="650" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="548" x2="455" y2="650" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="548" x2="357" y2="748" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="548" x2="259" y2="650" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="650" x2="259" y2="650" stroke="#1E9E8F" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="650" x2="357" y2="748" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="455" y1="650" x2="357" y2="858" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="650" x2="357" y2="748" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="259" y1="650" x2="357" y2="858" stroke="#7E5BBE" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<line x1="357" y1="748" x2="357" y2="858" stroke="#D99A07" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+<circle cx="62" cy="205" r="7" fill="#9A42BD"/>
+<text x="76" y="210" font-size="13.5" font-weight="bold" fill="#692D80">7&#183; Corona</text>
+<circle cx="62" cy="302" r="7" fill="#3945C6"/>
+<text x="76" y="307" font-size="13.5" font-weight="bold" fill="#272F86">6&#183; Terzo Occhio</text>
+<circle cx="62" cy="452" r="7" fill="#1CA1E3"/>
+<text x="76" y="457" font-size="13.5" font-weight="bold" fill="#136D9A">5&#183; Gola</text>
+<circle cx="62" cy="548" r="7" fill="#40BF6E"/>
+<text x="76" y="553" font-size="13.5" font-weight="bold" fill="#2B824B">4&#183; Cuore</text>
+<circle cx="62" cy="650" r="7" fill="#F5BA0A"/>
+<text x="76" y="655" font-size="13.5" font-weight="bold" fill="#A67F07">3&#183; Plesso Solare</text>
+<circle cx="62" cy="748" r="7" fill="#EC7113"/>
+<text x="76" y="753" font-size="13.5" font-weight="bold" fill="#A04D0D">2&#183; Sacrale</text>
+<circle cx="62" cy="858" r="7" fill="#D62F29"/>
+<text x="76" y="863" font-size="13.5" font-weight="bold" fill="#92201C">1&#183; Radice</text>
+<circle cx="357" cy="372" r="26" fill="#ffffff" stroke="#33AAE6" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="357" y="376" text-anchor="middle" font-size="11.5" font-style="italic" fill="#1681B6">Da&#8217;at</text>
+<circle cx="357" cy="205" r="34" fill="#8E3DAE" stroke="#ffffff" stroke-width="3"/>
+<text x="357" y="210" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Keter</text>
+<circle cx="455" cy="302" r="34" fill="#3540B6" stroke="#ffffff" stroke-width="3"/>
+<text x="455" y="307" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Chokmah</text>
+<circle cx="259" cy="302" r="34" fill="#3540B6" stroke="#ffffff" stroke-width="3"/>
+<text x="259" y="307" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Binah</text>
+<circle cx="455" cy="452" r="34" fill="#1A94D1" stroke="#ffffff" stroke-width="3"/>
+<text x="455" y="457" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Chesed</text>
+<circle cx="259" cy="452" r="34" fill="#1A94D1" stroke="#ffffff" stroke-width="3"/>
+<text x="259" y="457" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Gevurah</text>
+<circle cx="357" cy="548" r="34" fill="#3BB066" stroke="#ffffff" stroke-width="3"/>
+<text x="357" y="553" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Tiferet</text>
+<circle cx="455" cy="650" r="34" fill="#E1AB09" stroke="#ffffff" stroke-width="3"/>
+<text x="455" y="655" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Netzach</text>
+<circle cx="259" cy="650" r="34" fill="#E1AB09" stroke="#ffffff" stroke-width="3"/>
+<text x="259" y="655" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Hod</text>
+<circle cx="357" cy="748" r="34" fill="#D96812" stroke="#ffffff" stroke-width="3"/>
+<text x="357" y="753" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Yesod</text>
+<circle cx="357" cy="858" r="34" fill="#C52B26" stroke="#ffffff" stroke-width="3"/>
+<text x="357" y="863" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">Malkhut</text>
+<text x="62" y="923" font-size="12.5" font-weight="bold" fill="#3E3566">I 22 sentieri:</text>
+<line x1="62" y1="945" x2="88" y2="945" stroke="#1E9E8F" stroke-width="5" stroke-linecap="round"/>
+<text x="96" y="950" font-size="13" fill="#33291F">3 elementi</text>
+<line x1="230" y1="945" x2="256" y2="945" stroke="#D99A07" stroke-width="5" stroke-linecap="round"/>
+<text x="264" y="950" font-size="13" fill="#33291F">7 pianeti</text>
+<line x1="398" y1="945" x2="424" y2="945" stroke="#7E5BBE" stroke-width="5" stroke-linecap="round"/>
+<text x="432" y="950" font-size="13" fill="#33291F">12 zodiaco</text>
+<g filter="url(#sh)"><rect x="618" y="140" width="825" height="250" rx="16" fill="#ffffff" stroke="#E6DDEE" stroke-width="1.5"/></g>
+<rect x="618" y="140" width="825" height="38" rx="16" fill="#3E3566"/><rect x="618" y="160" width="825" height="18" fill="#3E3566"/>
+<text x="1030.5" y="166" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#fff" letter-spacing="0.5">LE 7 CORRISPONDENZE  CHAKRA &#8596; SEPHIROT</text>
+<circle cx="642" cy="192" r="9" fill="#9A42BD"/><text x="638" y="197" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">7</text>
+<text x="662" y="196" font-size="14" font-weight="bold" fill="#692D80">Corona</text>
+<text x="843" y="196" font-size="14" font-weight="bold" fill="#33291F">Keter</text>
+<text x="1088" y="196" font-size="13.5" fill="#7C6A52">Corona &#183; Unit&#224; divina</text>
+<circle cx="642" cy="219" r="9" fill="#3945C6"/><text x="638" y="224" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">6</text>
+<text x="662" y="223" font-size="14" font-weight="bold" fill="#272F86">Terzo Occhio</text>
+<text x="843" y="223" font-size="14" font-weight="bold" fill="#33291F">Chokmah &amp; Binah</text>
+<text x="1088" y="223" font-size="13.5" fill="#7C6A52">Saggezza &#183; Comprensione</text>
+<circle cx="642" cy="246" r="9" fill="#1CA1E3"/><text x="638" y="251" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">5</text>
+<text x="662" y="250" font-size="14" font-weight="bold" fill="#136D9A">Gola</text>
+<text x="843" y="250" font-size="14" font-weight="bold" fill="#33291F">Da&#8217;at / Chesed-Gevurah</text>
+<text x="1088" y="250" font-size="13.5" fill="#7C6A52">Conoscenza &#183; Espressione</text>
+<circle cx="642" cy="273" r="9" fill="#40BF6E"/><text x="638" y="278" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">4</text>
+<text x="662" y="277" font-size="14" font-weight="bold" fill="#2B824B">Cuore</text>
+<text x="843" y="277" font-size="14" font-weight="bold" fill="#33291F">Tiferet</text>
+<text x="1088" y="277" font-size="13.5" fill="#7C6A52">Bellezza &#183; Armonia</text>
+<circle cx="642" cy="300" r="9" fill="#F5BA0A"/><text x="638" y="305" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">3</text>
+<text x="662" y="304" font-size="14" font-weight="bold" fill="#A67F07">Plesso Solare</text>
+<text x="843" y="304" font-size="14" font-weight="bold" fill="#33291F">Netzach &amp; Hod</text>
+<text x="1088" y="304" font-size="13.5" fill="#7C6A52">Slancio &#183; Intelletto</text>
+<circle cx="642" cy="327" r="9" fill="#EC7113"/><text x="638" y="332" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">2</text>
+<text x="662" y="331" font-size="14" font-weight="bold" fill="#A04D0D">Sacrale</text>
+<text x="843" y="331" font-size="14" font-weight="bold" fill="#33291F">Yesod</text>
+<text x="1088" y="331" font-size="13.5" fill="#7C6A52">Fondamento</text>
+<circle cx="642" cy="354" r="9" fill="#D62F29"/><text x="638" y="359" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">1</text>
+<text x="662" y="358" font-size="14" font-weight="bold" fill="#92201C">Radice</text>
+<text x="843" y="358" font-size="14" font-weight="bold" fill="#33291F">Malkhut</text>
+<text x="1088" y="358" font-size="13.5" fill="#7C6A52">Regno &#183; Mondo fisico</text>
+<g filter="url(#sh)"><rect x="618" y="405" width="825" height="470" rx="16" fill="#ffffff" stroke="#E6DDEE" stroke-width="1.5"/></g>
+<rect x="618" y="405" width="825" height="38" rx="16" fill="#3E3566"/><rect x="618" y="425" width="825" height="18" fill="#3E3566"/>
+<text x="1030.5" y="431" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#fff" letter-spacing="0.5">I 22 SENTIERI  =  I 22 ARCANI MAGGIORI</text>
+<text x="640" y="467" font-size="12.7" fill="#33291F">Ogni sentiero = 1 lettera ebraica = 1 Arcano. Struttura (Sefer Yetzirah): <tspan font-weight="bold">3 + 7 + 12 = 22</tspan>.</text>
+<text x="640" y="493" font-size="13" font-weight="bold" fill="#1E9E8F">3 MADRI &#183; elementi</text>
+<text x="652" y="514" font-size="12.6" fill="#33291F">Aleph &#8212; Il Matto &#8212; Aria</text>
+<text x="652" y="532" font-size="12.6" fill="#33291F">Mem &#8212; L&#8217;Appeso &#8212; Acqua</text>
+<text x="652" y="550" font-size="12.6" fill="#33291F">Shin &#8212; Il Giudizio &#8212; Fuoco</text>
+<text x="640" y="576" font-size="13" font-weight="bold" fill="#D99A07">7 DOPPIE &#183; pianeti  (&#8776; i 7 chakra)</text>
+<text x="652" y="597" font-size="12.6" fill="#33291F">Beth &#8212; Il Mago &#8212; Mercurio</text>
+<text x="652" y="615" font-size="12.6" fill="#33291F">Gimel &#8212; La Papessa &#8212; Luna</text>
+<text x="652" y="633" font-size="12.6" fill="#33291F">Daleth &#8212; L&#8217;Imperatrice &#8212; Venere</text>
+<text x="652" y="651" font-size="12.6" fill="#33291F">Kaph &#8212; La Ruota &#8212; Giove</text>
+<text x="652" y="669" font-size="12.6" fill="#33291F">Peh &#8212; La Torre &#8212; Marte</text>
+<text x="652" y="687" font-size="12.6" fill="#33291F">Resh &#8212; Il Sole &#8212; Sole</text>
+<text x="652" y="705" font-size="12.6" fill="#33291F">Tav &#8212; Il Mondo &#8212; Saturno</text>
+<text x="640" y="731" font-size="13" font-weight="bold" fill="#7E5BBE">12 SEMPLICI &#183; zodiaco</text>
+<text x="652" y="752" font-size="12.6" fill="#33291F">He &#8212; L&#8217;Imperatore &#8212; Ariete</text>
+<text x="1057" y="752" font-size="12.6" fill="#33291F">Lamed &#8212; La Giustizia &#8212; Bilancia</text>
+<text x="652" y="770" font-size="12.6" fill="#33291F">Vav &#8212; Il Papa &#8212; Toro</text>
+<text x="1057" y="770" font-size="12.6" fill="#33291F">Nun &#8212; La Morte &#8212; Scorpione</text>
+<text x="652" y="788" font-size="12.6" fill="#33291F">Zayin &#8212; Gli Amanti &#8212; Gemelli</text>
+<text x="1057" y="788" font-size="12.6" fill="#33291F">Samekh &#8212; Temperanza &#8212; Sagittario</text>
+<text x="652" y="806" font-size="12.6" fill="#33291F">Cheth &#8212; Il Carro &#8212; Cancro</text>
+<text x="1057" y="806" font-size="12.6" fill="#33291F">Ayin &#8212; Il Diavolo &#8212; Capricorno</text>
+<text x="652" y="824" font-size="12.6" fill="#33291F">Teth &#8212; La Forza &#8212; Leone</text>
+<text x="1057" y="824" font-size="12.6" fill="#33291F">Tzaddi &#8212; La Stella &#8212; Acquario</text>
+<text x="652" y="842" font-size="12.6" fill="#33291F">Yod &#8212; L&#8217;Eremita &#8212; Vergine</text>
+<text x="1057" y="842" font-size="12.6" fill="#33291F">Qoph &#8212; La Luna &#8212; Pesci</text>
+<g filter="url(#sh)"><rect x="618" y="892" width="825" height="83" rx="14" fill="#FBF6EE" stroke="#E8C9A6" stroke-width="1.5"/></g>
+<text x="638" y="918" font-size="12.8" font-weight="bold" fill="#9A5A2A">Nota onesta</text>
+<text x="638" y="940" font-size="12.6" fill="#33291F">Le Sephirot non &#8220;sono&#8221; i chakra: l&#8217;accostamento &#8212; e i 22 Arcani sui sentieri &#8212; &#232; una sintesi ermetica</text>
+<text x="638" y="959" font-size="12.6" fill="#33291F">moderna (&#201;liphas L&#233;vi, 1800; Golden Dawn, 1888). Bel ponte simbolico, non un&#8217;unica dottrina antica.</text>
+</svg>

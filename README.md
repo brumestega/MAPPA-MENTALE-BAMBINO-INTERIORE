@@ -63,6 +63,16 @@ riquadri — *I numeri come suono* (i 50 petali = le 50 lettere sanscrite), *Il 
 Numero del Percorso di Vita* (calcolo + esempio) e una *Nota onesta* sulle fonti
 (cosa è tradizione e cosa è sintesi moderna). Vedi `genera_numerologia.py`.
 
+## F. Chakra · Albero della Vita · Tarocchi
+`chakra-albero-tarocchi.pdf` · `.png` · `.svg`
+
+Pagina A4 sul "ponte" ermetico tra chakra e tradizione occidentale: l'**Albero della
+Vita "arcobaleno"** (i 7 chakra mappati sulle 10 Sephirot) e i **22 sentieri = i 22
+Arcani Maggiori**, color-codati secondo la struttura del *Sefer Yetzirah* (3 lettere
+madri/elementi · 7 doppie/pianeti · 12 semplici/zodiaco). Include la tabella
+chakra↔Sephirot, l'elenco completo dei 22 Arcani (lettera ebraica · carta ·
+pianeta/segno) e una nota sull'origine moderna del sincretismo. Vedi `genera_albero.py`.
+
 ## Stampa
 I `.pdf` (mappe) sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
 I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
