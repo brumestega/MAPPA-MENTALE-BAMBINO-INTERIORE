@@ -73,20 +73,35 @@ madri/elementi · 7 doppie/pianeti · 12 semplici/zodiaco). Include la tabella
 chakra↔Sephirot, l'elenco completo dei 22 Arcani (lettera ebraica · carta ·
 pianeta/segno) e una nota sull'origine moderna del sincretismo. Vedi `genera_albero.py`.
 
+## G. Scheda del Consultante — *da consegnare*
+`scheda-consultante.pdf` · `.png` · `.svg` (A4 **verticale**)
+
+Il foglio da **regalare alla persona a fine sessione**: un promemoria da compilare
+a mano davanti al consultante, così diventa un piccolo dono personalizzato da portare
+a casa. Coordinato col kit (crema, banner arcobaleno, icone-elemento). Contiene:
+*Nome · Data*; **Il mio chakra guida** (i 7 chakra da cerchiare, con bija e affermazione);
+**Il filo del Bambino Interiore** (Bambino → Ferita → Emozione → Accoglienza → Gioia);
+**La mia frase** (affermazione); **La mia pratica della settimana** (respiro dell'acqua ·
+mantra · gesto gentile + una riga libera, una casella per ogni giorno);
+**Note e intenzione**; e la firma *«Con cura»* dell'operatore. Vedi `genera_scheda_consultante.py`.
+
 ## Stampa
 I `.pdf` (mappe) sono **vettoriali in A4 (297 × 210 mm)**: nitidi a qualsiasi dimensione.
 I `.png` sono a **300 DPI (3508 × 2481 px)**. In stampa: "Adatta alla pagina",
-orientamento **orizzontale**.
+orientamento **orizzontale**. La *Scheda del Consultante* e le meditazioni sono invece
+in A4 **verticale** (210 × 297 mm).
 
 ## Rigenerare i file
-Servono Python 3 e `rsvg-convert` (pacchetto `librsvg2-bin`); per il PDF unico
-`pdfunite` (pacchetto `poppler-utils`).
+Serve Python 3 e, per l'export PDF/PNG, `rsvg-convert` (pacchetto `librsvg2-bin`)
+**oppure** `cairosvg` (`pip install cairosvg`); per il PDF unico `pdfunite`
+(pacchetto `poppler-utils`); per le meditazioni `reportlab` (`pip install reportlab`).
 
 ```bash
 python3 genera_mappa.py        # Mappa del Bambino Interiore
 python3 genera_chakra.py       # le 7 mappe dei chakra (chakra-1..7-*.svg)
 python3 genera_meditazione.py  # meditazione del Bambino Interiore (PDF + Markdown)  [serve reportlab]
 python3 genera_meditazioni_chakra.py  # le 7 meditazioni dei chakra (PDF + PDF unico + Markdown)
+python3 genera_scheda_consultante.py  # Scheda del Consultante (esporta da sé PDF+PNG)
 
 # esempio export di una mappa
 rsvg-convert -f pdf chakra-4-anahata.svg -o chakra-4-anahata.pdf
